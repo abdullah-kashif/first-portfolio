@@ -369,6 +369,11 @@ h3 {
 .about-title {
     text-align: center;
 }
+.about-subtitle {
+    text-align: center;
+    font-size: 24px;
+    line-height: 1.2;
+}
 
 @media (min-width: 800px) {
     .about-me {
